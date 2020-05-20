@@ -19,3 +19,4 @@ This repo covers the fundamentals of rust
 - vectors;
 - conditionals;
 - loops;
+- functions;
