@@ -12,7 +12,7 @@ $ cargo new <PROJECT_NAME>
 - Using this command will init a `cargo` project in the same directory
 
 ```code
-$ cargo inti
+$ cargo init
 ```
 
 ### Running a cargo project
