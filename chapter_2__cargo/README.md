@@ -26,3 +26,16 @@ cargo run
 ```code
 cargo run --release
 ```
+
+#### Main topics include 
+
+- print;
+- vars;
+- types;
+- strings;
+- tuples;
+- array;
+- vectors;
+- conditionals;
+- loops;
+- functions;
