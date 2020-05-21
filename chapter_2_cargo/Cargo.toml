@@ -1,5 +1,5 @@
 [package]
-name = "chapter-2__cargo"
+name = "chapter-2_cargo"
 version = "0.1.0"
 authors = ["adeelibr <adeelimranr@gmail.com>"]
 edition = "2018"
